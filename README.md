@@ -1,19 +1,27 @@
 # Insertion-Sort1)
+
   [22, 27, 16, 2, 18, 6]
+  
   [2, 27, 16, 22, 18, 6]
+  
   [2, 6, 16, 22, 18, 27]
+  
   [2, 6, 16, 18, 22, 27]
   
 2)
 n+(n-1)+(n-2)+...+1=(n^2-n)/2
 O(n^2) oluyor
 
-3) 
+
+
 Best case = 2
+
 Average case = 16, 18
+
 Worst case = 27
 
 4)
+
 18 Sayisi AVERAGE CASE kapsamina girer
 
 4)
