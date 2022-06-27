@@ -24,7 +24,7 @@ Worst case = 27
 
 18 Sayisi AVERAGE CASE kapsamina girer
 
-4)
+5)
 [7,3,5,8,2,9,4,15,6]
 
 [2,3,5,8,7,9,4,15,6]
